@@ -1,5 +1,7 @@
+//initialize variables
 let homeScore = 0;
 let guestScore = 0;
+//get the elements
 let homeScorePara = document.getElementById("homeScoreP");
 let guestScorePara = document.getElementById("guestScoreP");
 
